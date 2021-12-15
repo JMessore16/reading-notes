@@ -13,3 +13,4 @@
 
 ## 3. DO NOT GIVE UP!
 ### Something may seem so out of reach but becoming aware of when you're exhausted mentally can make or break that next chapter in whatever you may working on. Allow yourself to take breaks and reflect on the work you have completed and come back with a fresh mind, but DO NOT GIVE UP! We all fall victim of imposter syndrome at times and this can encroach on our ability to execute, do not fall into this easily avoidable trap set by yourself.
+![Doit](https://brobible.com/wp-content/uploads/2018/10/youcan.gif)
