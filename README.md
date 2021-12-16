@@ -16,3 +16,5 @@
 ![Doit](https://brobible.com/wp-content/uploads/2018/10/youcan.gif)
 
 #### My name is Jacob, I am a prior Aviation Mechanic in the Navy and extremely excited to see where this road can lead me! Find me at [Github](https://github.com/JMessore16)
+
+## Check out my Command Line and Terminal cheat sheet [here](/cheat-sheet.md)!!
