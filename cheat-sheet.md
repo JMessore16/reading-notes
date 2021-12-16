@@ -8,7 +8,7 @@ Some basic commands:
 - **pwd**: Outputs your working directory (the directory you are currently in). For example: `pwd` output: `Users/Jake/Codefellows/course`
 - **ls**: Lists the files of your current directory. For example: `ls will show files such as course 102 within your course folder.
 
-**cd**: In order to navigate the file system using the command line, you will need to use `cd`. The syntax can be tricky at first. The basic syntax is `cd /folder-name/`. However, the location is relative. This means that `cd` will assume that the directory you are changing to exists within the same directory you are currently in. The way around this is using absolute paths. For example, if I am currently in `/projects/courses/courses/course-102` and I wanted to move to a folder in the home directory, I would have to type `cd /~/other-folder/`. Below are some more examples of how to use it:
-- `cd ./projects/courses`: Sets your working directory to `/courses/`. 
-- `cd ..` : Sets your working directory to the directory above it. For example if you are in `/folder/courses/`, entering `cd ..` will cause your working directory to change to `/folder/`. 
+**cd**: In order to navigate through your files using the command line, you will use `cd` this will allow you to change your current file/directory. This can be confusing at first but is the same as changing your file in your file explorer or on your desktop and dragging and dropping that file. It is a very basic command that is input into your command line to allow for easier navigation via the terminal.
+- `cd ./CodeFellows/course`: Sets your working directory to `/course/`. 
+- `cd ..` : Sets your current directory to the previous directory right before it. For example if you are in `/CodeFellows/course/`, entering `cd ..` will bring your current directory to`/CodeFellows/`. 
 
