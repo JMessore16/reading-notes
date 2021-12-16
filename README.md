@@ -1,5 +1,5 @@
 # Jake's GitHub
-#### My name is Jacob, I am a prior Aviation Mechanic in the Navy and extremely excited to see where this road can lead me! Find me at [Github](https://github.com/JMessore16)
+#### My name is Jacob, I am a prior Aviation Mechanic in the Navy and extremely excited to see where this road can take me! Find me at [Github](https://github.com/JMessore16)
 
 
 ## Table of Contents:
