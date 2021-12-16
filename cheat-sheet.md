@@ -1,8 +1,8 @@
-## What is the Terminal & Command Line?
+# What is the Terminal & Command Line?
 
 The **command line** is a text-based interface that allows you to enact changes to your computer's files and much more!
 
-Some basic commands:
+## Some basic commands:
 - **cd**: Changes the directory to a specified directory. For example: `cd ~/CodeFellows/course/`
 - **mkdir**: Creates a new directory. For example: `mkdir ./codeFellows/course/course-101/`
 - **pwd**: Outputs your working directory (the directory you are currently in). For example: `pwd` output: `Users/Jake/Codefellows/course`
