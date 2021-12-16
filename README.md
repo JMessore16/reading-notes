@@ -1,4 +1,4 @@
-# My GitHub
+# Jake's GitHub
 
 ## Table of Contents:
 1. [Markdown](/markdown.md)
