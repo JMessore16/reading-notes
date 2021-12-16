@@ -8,4 +8,6 @@
 
 ## Types of inputs
 
-- Line breaks
+- Line breaks (End a line with two or more spaces then type return)
+- Paragraphs (use a blank line to separate one or more lines of text)
+- Bold Text (add two astericks before and after the word or sentence)
