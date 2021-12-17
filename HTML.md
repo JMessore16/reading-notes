@@ -17,4 +17,4 @@ A good website starts with your **Wireframe** this is your blueprint for a kicka
 
 ## Layout of Semantics
 
-### Semantics will be used in a very specific way for example if i wanted to make a header on my webpage I would type `<h1>This is my header</h1>` this would display # This is my header in bold and large letters making it the most important or subject of the page.
+### Semantics will be used in a very specific way for example if i wanted to make a header on my webpage I would type `<h1>This is my header</h1>` this would display "This is my header" in bold and large letters making it the most important or subject of the page.
