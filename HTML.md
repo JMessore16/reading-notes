@@ -11,7 +11,7 @@ A good website starts with your **Wireframe** this is your blueprint for a kicka
 ### Semantics in html are the equivlant to markdown language, they differ in many ways though, Semantics will have a meaning which will be represented by a tag/element for example (<h1></h1>) this will represent the same as (#) in markdown.
 
 #### Types of Semantics
-- (<p></p>) this command will allow for you to create a paragraph in your html file.
+- ** <p></p> **this command will allow for you to create a paragraph in your html file.
 - (<em></em>) will emphasize the nested word or phrase makig it italic.
 - (<strong></strong>) will allow your text to be more present by making it bold.
 
