@@ -1,3 +1,8 @@
+# CSS
+
+## What is CSS?
+**CSS** is a language that specifies how the html content is displayed to users and consumers. It allows for visual adjustments as well as formatting of your webpage.
+
 ## CSS Format/Modules/Syntax
 
 **p** (this specifies the element or attribute that is being changed) **{**
