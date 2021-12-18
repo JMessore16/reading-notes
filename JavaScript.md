@@ -1,4 +1,4 @@
-#JavaScript
+# JavaScript
 
 ## What is JavaScript?
 **JavaScript** is a scripting or programming language that allows for functionality and implementation of website features.
