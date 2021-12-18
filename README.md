@@ -6,6 +6,6 @@
 1. [Markdown](/markdown.md)
 1. [GitHub](/Github.md)
 1. [Growth Mindset](/Growth-Mindset.md)
-1. [Cheat Sheet](/cheat-sheet.md)
+1. [Terminal & Command Line](/terminal.md)
 2. [HTML](HTML.md)
 3. [CSS](css.md)
