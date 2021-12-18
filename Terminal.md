@@ -12,3 +12,5 @@ The **command line** is a text-based interface that allows you to enact changes 
 - `cd ./CodeFellows/course`: Sets your working directory to `/course/`. 
 - `cd ..` : Sets your current directory to the previous directory right before it. For example if you are in `/CodeFellows/course/`, entering `cd ..` will bring your current directory to`/CodeFellows/`. 
 
+[Go Back](README.md)
+
