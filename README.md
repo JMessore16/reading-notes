@@ -9,3 +9,4 @@
 1. [Terminal & Command Line](/terminal.md)
 2. [HTML](HTML.md)
 3. [CSS](css.md)
+4. [JavaScript](JavaScript.md)
