@@ -14,3 +14,5 @@ In order to clone a repository you first have to navigate to a directory you wan
 
 Once you have your link from the repo, you can then head back to your Terminal to input the command **git clone (link here)** , this will copy that repo to the current working directory and you can now enact changes to that repo as long as you have the proper access.
 
+[Go Back](README.md)
+
