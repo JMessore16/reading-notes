@@ -18,4 +18,22 @@ function square(number) {
   return number * number;
   
 }
+
 In the example above `function` is set to define the square of (number), number will be input by the user or within the code to get an output or `return` of number * number which would define the square of the inout number.
+
+## Control Flow
+**Control Flow** is the order in which the computer executes statements in a script.
+
+An example of control flow would be an if/else, if something happens then execute so and so or else execute something else.
+
+if (field==empty) {
+
+    promptUser();
+    
+} else {
+
+    submitForm();
+    
+}
+
+In the above example the script calls to see if the user of the site has filled in a form, if empty the user will be prompted to submit the form. A very simple script and a perfect example of if/else.
