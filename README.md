@@ -10,3 +10,4 @@
 2. [HTML](HTML.md)
 3. [CSS](css.md)
 4. [JavaScript](JavaScript.md)
+5. [Operators and Loops](Operators-and-Loops.md)
