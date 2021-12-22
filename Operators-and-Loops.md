@@ -31,3 +31,13 @@
   
 `}`
 
+## What is an operator?
+
+##JavaScript has both binary and unary **operators**, and one special ternary operator, the conditional operator. A binary operator requires two operands, one before the operator and one after the operator
+
+`operand1 operator operand2`
+
+Example: `3+4 or x*y`
+
+
+
