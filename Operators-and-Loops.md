@@ -40,4 +40,3 @@ JavaScript has both binary and unary **operators**, and one special ternary oper
 Example: `3+4 or x*y`
 
 
-& fo
